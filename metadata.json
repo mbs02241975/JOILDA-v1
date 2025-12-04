@@ -1,0 +1,7 @@
+{
+  "name": "JOILDA v1",
+  "description": "Sistema de gestão para barraca de praia com cardápio digital, controle de estoque e relatórios com IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
